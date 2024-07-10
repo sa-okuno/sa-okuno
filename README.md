@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+# What I'm currently using
+<img src="https://skillicons.dev/icons?i=python,vscode,gitlab,aws,jenkins" /> <br /><br />
+
+# Things I've used
+<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,github" /> <br /><br />
+
+# Development environments I have used
+ ★ Virtual Box
+
 <!--
 **sa-okuno/sa-okuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
