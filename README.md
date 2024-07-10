@@ -8,6 +8,7 @@
 
 # Development environments I have used
  ★ Virtual Box
+ ★ Eclipse
 
 <!--
 **sa-okuno/sa-okuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
